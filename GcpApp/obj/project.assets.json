@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {
+    "net7.0": {
       "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.17.2": {
         "type": "package",
         "build": {
@@ -95,7 +95,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net6.0": [
+    "net7.0": [
       "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.17.2"
     ]
   },
@@ -105,26 +105,26 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GCP - Google Cloud Certification\\GcpApp\\GcpApp.csproj",
+      "projectUniqueName": "D:\\GCP - Google Cloud Certification\\gcp\\GcpApp\\GcpApp.csproj",
       "projectName": "GcpApp",
-      "projectPath": "D:\\GCP - Google Cloud Certification\\GcpApp\\GcpApp.csproj",
+      "projectPath": "D:\\GCP - Google Cloud Certification\\gcp\\GcpApp\\GcpApp.csproj",
       "packagesPath": "C:\\Users\\Nasim\\.nuget\\packages\\",
-      "outputPath": "D:\\GCP - Google Cloud Certification\\GcpApp\\obj\\",
+      "outputPath": "D:\\GCP - Google Cloud Certification\\gcp\\GcpApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nasim\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net6.0"
+        "net7.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "projectReferences": {}
         }
       },
@@ -135,8 +135,8 @@
       }
     },
     "frameworks": {
-      "net6.0": {
-        "targetAlias": "net6.0",
+      "net7.0": {
+        "targetAlias": "net7.0",
         "dependencies": {
           "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
             "target": "Package",

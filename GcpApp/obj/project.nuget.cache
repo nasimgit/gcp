@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "msnY9Y43HXkdN2obX725AIjuwAYpKansB+mSwrg7xMRzU/My5y9gHsBZsuXDWK5r4ADgo0lIOsJWuRMj675/iQ==",
+  "dgSpecHash": "QV0KsVs5N2H981ILM98TPEKzXc/WRyyRwP4oKA2qk9kPGtLvlBJ+76UqrWC2eDiMKJdn46y5S9czL3prN9TtEQ==",
   "success": true,
-  "projectFilePath": "D:\\GCP - Google Cloud Certification\\GcpApp\\GcpApp.csproj",
+  "projectFilePath": "D:\\GCP - Google Cloud Certification\\gcp\\GcpApp\\GcpApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nasim\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
   ],
